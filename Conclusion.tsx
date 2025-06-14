@@ -126,19 +126,19 @@ const Conclusion = () => {
             </div>
             
             <div className="flex justify-center space-x-8">
-              <a href="mailto:christabel@example.com" className="flex items-center space-x-3 text-purple-200 hover:text-white transition-colors group">
+              <a href="mailto:christabeladu76@gmail.com" className="flex items-center space-x-3 text-purple-200 hover:text-white transition-colors group">
                 <div className="w-10 h-10 bg-white/10 rounded-2xl flex items-center justify-center group-hover:bg-white/20 transition-colors">
                   <Mail className="h-5 w-5" />
                 </div>
                 <span className="font-medium">Email</span>
               </a>
-              <a href="#" className="flex items-center space-x-3 text-purple-200 hover:text-white transition-colors group">
+              <a href="https://www.linkedin.com/in/christabel-adu300a5200b/" className="flex items-center space-x-3 text-purple-200 hover:text-white transition-colors group">
                 <div className="w-10 h-10 bg-white/10 rounded-2xl flex items-center justify-center group-hover:bg-white/20 transition-colors">
                   <Linkedin className="h-5 w-5" />
                 </div>
                 <span className="font-medium">LinkedIn</span>
               </a>
-              <a href="#" className="flex items-center space-x-3 text-purple-200 hover:text-white transition-colors group">
+              <a href="https://github.com/adjoalady/" className="flex items-center space-x-3 text-purple-200 hover:text-white transition-colors group">
                 <div className="w-10 h-10 bg-white/10 rounded-2xl flex items-center justify-center group-hover:bg-white/20 transition-colors">
                   <Github className="h-5 w-5" />
                 </div>
